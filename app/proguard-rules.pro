@@ -1,0 +1,7 @@
+-keep class org.apache.poi.** { *; }
+-keep class org.dhatim.fastexcel.** { *; }
+-keep class com.tom_roush.pdfbox.** { *; }
+-keep class net.zetetic.** { *; }
+-dontwarn org.apache.poi.**
+-dontwarn java.awt.**
+-dontwarn javax.imageio.**

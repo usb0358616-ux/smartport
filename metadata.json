@@ -1,0 +1,6 @@
+{
+  "name": "المنافذ والجوازات",
+  "description": "نظام ميداني وسيادي متكامل لضباط المنافذ الحدودية لفحص الجوازات والوثائق وإدارة حركة المسافرين دون إنترنت",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
